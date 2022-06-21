@@ -62,7 +62,7 @@ sudo ufw allow 80
 
 echo "Go to your Ip Address or Domain Configured with your server"
 
-echo "Please note that there is an extra step to do yourselfZ"
+echo "Please note that there is an extra step to do yourself"
 echo "Go to "
 echo "https://api.wordpress.org/secret-key/1.1/salt/"
 echo "copy that and edit the file wp-config"
