@@ -5,7 +5,7 @@ sleep 1
 echo "Updating packages"
 sudo apt update
 sudo apt upgrade -y
-echo "Down updating packages"\
+echo "Down updating packages"
 
 echo "Installing required packages"
 sudo apt install apache2 -y
